@@ -10,7 +10,7 @@ Full stack developer with 4 years of experience in designing, developing, testin
 * 🖥️  See my portfolio at [MyPortfolio](http://resume-atridahmetaj.vercel.app)
 * ✉️  You can contact me at [atrid1995@gmail.com](mailto:atrid1995@gmail.com)
 * 🧠  I'm learning networking and virtualization
-* ⚡  Best tennis table you have ever seen
+* ⚡  Best tennis table player you have ever seen
 
 ### Skills
 
